@@ -9,3 +9,5 @@ Click [here to go to the app](https://steniof.shinyapps.io/geom_app/).
 **Note**: a new and much more complete web app to predict several life-history traits in insects (and other invertebrates) is being currently developed and will soon be released in a further publication.
 
 This project is funded by the Estonian Research Council (grant PRG741).
+
+Contact: stenio.foerster@ut.ee
